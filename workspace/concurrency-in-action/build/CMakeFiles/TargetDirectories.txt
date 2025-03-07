@@ -1,0 +1,3 @@
+/home/anatoliy/projects/edu/Concurrency/workspace/concurrency-in-action/build/CMakeFiles/templates1.dir
+/home/anatoliy/projects/edu/Concurrency/workspace/concurrency-in-action/build/CMakeFiles/edit_cache.dir
+/home/anatoliy/projects/edu/Concurrency/workspace/concurrency-in-action/build/CMakeFiles/rebuild_cache.dir

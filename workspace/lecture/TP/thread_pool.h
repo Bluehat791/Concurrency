@@ -17,7 +17,7 @@ private:
     void WorkerRoutine();
 
 private:
-    std::vector<std::thread> workers_
+    std::vector<std::thread> workers_;
 };
 
 }
